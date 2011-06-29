@@ -1,4 +1,5 @@
-Welcome to my Titanium MVC example.  
+Welcome to my Titanium MVC example.  This repository is the source companion to my recent post on Titanium MVC: http://bradbroulik.blogspot.com/2011/03/titanium-mvc-pattern.html
+
 
 1) Import this project into your Titanium workspace.
 2) Launch the project from your iPhone emulator to run the example.
