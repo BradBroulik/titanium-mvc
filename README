@@ -2,4 +2,4 @@ Welcome to my Titanium MVC example.
 
 1) Import this project into your Titanium workspace.
 2) Launch the project from your iPhone emulator to run the example.
-
+3) The controller and view files are in /Resources/src/MVC/ui/*.
